@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
+title: YW Creations
 email: your-email@domain.com
-url: https://jeromelachaud.com/freelancer-theme
+url: https://heavy-gull.cloudvent.net/
 description: "YW's Art Portfolio"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: YW
   location: Location
   social: Around the Web
   credits: Credits
